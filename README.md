@@ -40,6 +40,24 @@
       </a>
     </td>
    </tr> 
+
+  <tr>
+    <td>       
+      <img width="270" alt="AssemblyHMI" src="https://github.com/BroCoRo/BroCoRo/assets/85836332/a369e9c5-24e7-4b49-ac9b-5eaec0e26d97">
+      <a href="https://github.com/tylerscheifley/Ford-Assembly-Plant-Sec-2-Group-1">
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tylerscheifley&repo=Ford-Assembly-Plant-Sec-2-Group-1&theme=react&bg_color=0D1117" alt="Ford-Assembly-Plant">
+      </a>
+    </td>
+   </tr> 
+
+  <tr>
+    <td>       
+      <img width="270" alt="TypeQuest" src="https://github.com/BroCoRo/BroCoRo/assets/85836332/48a594aa-fb53-40c2-b036-08bcbb061cf2">
+      <a href="https://github.com/BroCoRo/Type-Quest">
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=brocoro&repo=Type-Quest&theme=react&bg_color=0D1117" alt="TypeQuest">
+      </a>
+    </td>
+   </tr> 
 </table>
 
 <p>
