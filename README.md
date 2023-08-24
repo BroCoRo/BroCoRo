@@ -22,7 +22,25 @@
   🗃️ Highlighted Projects
 </h2>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=brocoro&repo=differ)](https://github.com/BroCoRo/Mini-Golf)
+<table>
+  <tr>
+    <td>       
+      <img width="270" alt="MiniGolf" src="https://github.com/BroCoRo/BroCoRo/assets/85836332/98f9189e-d595-4eee-846d-80c62a5077a9">
+      <a href="https://github.com/BroCoRo/Mini-Golf">
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=brocoro&repo=Mini-Golf&theme=react&bg_color=0D1117" alt="Mini-Golf">
+      </a>
+    </td>
+   </tr> 
+
+  <tr>
+    <td>       
+      <img width="270" alt="TireChanger" src="https://github.com/BroCoRo/BroCoRo/assets/85836332/ce12dd0c-47c2-4f6d-80df-e525837b45b0">
+      <a href="https://github.com/BroCoRo/Tire-Changer-Sim">
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=brocoro&repo=Tire-Changer-Sim&theme=react&bg_color=0D1117" alt="Tire-Changer">
+      </a>
+    </td>
+   </tr> 
+</table>
 
 <p>
   <a href="https://github.com/brocoro?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
