@@ -1,6 +1,6 @@
 <div align="center">
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&animation=twinkling&fontAlignY=32"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8,15,28&height=170&section=header&animation=twinkling&fontAlignY=32"/>
 
 <h1>
   ⚡ Brodin Collins-Robb ⚡
@@ -15,8 +15,9 @@
   <br />
 </h1>
 
+<img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=brocoro&show_icons=true&count_private=true&theme=react&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=0D1117" width = "100%"/>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header&animation=twinkling&fontAlignY=32"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8,15,28&height=80&section=header&animation=twinkling&fontAlignY=32"/>
 <h2>
   🗃️ Highlighted Projects
 </h2>
@@ -29,7 +30,7 @@
   <br />
 </p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header&animation=twinkling&fontAlignY=32"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8,15,28&height=80&section=header&animation=twinkling&fontAlignY=32"/>
 <h2>
   💻 Programming Languages 
 </h2>
@@ -52,7 +53,7 @@
   <br />
 </p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header&animation=twinkling&fontAlignY=32"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8,15,28&height=80&section=header&animation=twinkling&fontAlignY=32"/>
 <h2 ">
   🧰 Tools
   <br />
@@ -82,6 +83,6 @@
   <br />
 </p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=footer&animation=twinkling"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8,15,28&height=170&section=footer&animation=twinkling"/>
 
 </div>
