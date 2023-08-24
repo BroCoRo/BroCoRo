@@ -52,6 +52,15 @@
 
   <tr>
     <td>       
+      <img width="270" alt="GuitarGuru" src="https://github.com/BroCoRo/BroCoRo/assets/85836332/0256a673-02cc-4798-849c-d33203516e45">
+      <a href="https://github.com/brocoro/Ctrl-Alt-Defeat-Guitar-Guru ">
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=brocoro&repo=Ctrl-Alt-Defeat-Guitar-Guru&theme=react&bg_color=0D1117" alt="GuitarGuru">
+      </a>
+    </td>
+   </tr> 
+
+  <tr>
+    <td>       
       <img width="270" alt="TypeQuest" src="https://github.com/BroCoRo/BroCoRo/assets/85836332/48a594aa-fb53-40c2-b036-08bcbb061cf2">
       <a href="https://github.com/BroCoRo/Type-Quest">
       <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=brocoro&repo=Type-Quest&theme=react&bg_color=0D1117" alt="TypeQuest">
