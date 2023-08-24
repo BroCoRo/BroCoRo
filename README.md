@@ -1,6 +1,6 @@
 <div align="center">
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8,15,28&height=170&section=header&animation=twinkling&fontAlignY=32"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&animation=twinkling&fontAlignY=32"/>
 
 <h1>
   ⚡ Brodin Collins-Robb ⚡
@@ -16,7 +16,7 @@
 </h1>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8,15,28&height=80&section=header&animation=twinkling&fontAlignY=32"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header&animation=twinkling&fontAlignY=32"/>
 <h2>
   🗃️ Highlighted Projects
 </h2>
@@ -29,7 +29,7 @@
   <br />
 </p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8,15,28&height=80&section=header&animation=twinkling&fontAlignY=32"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header&animation=twinkling&fontAlignY=32"/>
 <h2>
   💻 Programming Languages 
 </h2>
@@ -52,7 +52,7 @@
   <br />
 </p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8,15,28&height=80&section=header&animation=twinkling&fontAlignY=32"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header&animation=twinkling&fontAlignY=32"/>
 <h2 ">
   🧰 Tools
   <br />
@@ -82,6 +82,6 @@
   <br />
 </p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8,15,28&height=170&section=footer&animation=twinkling"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=footer&animation=twinkling"/>
 
 </div>
