@@ -90,7 +90,7 @@
 </h2>
 
 </p>
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brocoro&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=ffffff&icon_color=0891b2&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brocoro&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=ffffff&icon_color=0891b2&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
   <br />
   Below you will find some of the programming languages I am familiar with:
   <br />
