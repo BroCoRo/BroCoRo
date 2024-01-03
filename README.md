@@ -27,7 +27,7 @@
     <td>       
       <img width="270" alt="MiniGolf" src="https://github.com/BroCoRo/BroCoRo/assets/85836332/98f9189e-d595-4eee-846d-80c62a5077a9">
       <a href="https://github.com/BroCoRo/Mini-Golf">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=brocoro&repo=Mini-Golf&theme=react&bg_color=0D1117" alt="Mini-Golf">
+      <img width="500" height="200" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=brocoro&repo=Mini-Golf&theme=react&bg_color=0D1117&hide_border=true" alt="Mini-Golf">
       </a>
     </td>
    </tr> 
@@ -36,7 +36,16 @@
     <td>       
       <img width="270" alt="TireChanger" src="https://github.com/BroCoRo/BroCoRo/assets/85836332/ce12dd0c-47c2-4f6d-80df-e525837b45b0">
       <a href="https://github.com/BroCoRo/Tire-Changer-Sim">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=brocoro&repo=Tire-Changer-Sim&theme=react&bg_color=0D1117" alt="Tire-Changer">
+      <img width="500" height="200" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=brocoro&repo=Tire-Changer-Sim&theme=react&bg_color=161b22&hide_border=true" alt="Tire-Changer">
+      </a>
+    </td>
+   </tr> 
+
+   <tr>
+    <td> 
+      <img width="270" alt="MERNEnterpriseApplication" src="https://github.com/BroCoRo/BroCoRo/assets/85836332/42a4f751-b0e5-45cb-a8e3-eef401de8b97">
+      <a href="https://github.com/tylerscheifley/CSCN73030_PC_PayloadOps_Group2">
+      <img width="500" height="200" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tylerscheifley&repo=CSCN73030_PC_PayloadOps_Group2&theme=react&bg_color=0D1117&hide_border=true" alt="MERN-Enterprise-Space-Application">
       </a>
     </td>
    </tr> 
@@ -45,7 +54,7 @@
     <td>       
       <img width="270" alt="AssemblyHMI" src="https://github.com/BroCoRo/BroCoRo/assets/85836332/a369e9c5-24e7-4b49-ac9b-5eaec0e26d97">
       <a href="https://github.com/tylerscheifley/Ford-Assembly-Plant-Sec-2-Group-1">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tylerscheifley&repo=Ford-Assembly-Plant-Sec-2-Group-1&theme=react&bg_color=0D1117" alt="Ford-Assembly-Plant">
+      <img width="500" height="200" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tylerscheifley&repo=Ford-Assembly-Plant-Sec-2-Group-1&theme=react&bg_color=161b22&hide_border=true" alt="Ford-Assembly-Plant">
       </a>
     </td>
    </tr> 
@@ -54,7 +63,7 @@
     <td>       
       <img width="270" alt="GuitarGuru" src="https://github.com/BroCoRo/BroCoRo/assets/85836332/0256a673-02cc-4798-849c-d33203516e45">
       <a href="https://github.com/brocoro/Ctrl-Alt-Defeat-Guitar-Guru ">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=brocoro&repo=Ctrl-Alt-Defeat-Guitar-Guru&theme=react&bg_color=0D1117" alt="GuitarGuru">
+      <img width="500" height="200" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=brocoro&repo=Ctrl-Alt-Defeat-Guitar-Guru&theme=react&bg_color=0D1117&hide_border=true" alt="GuitarGuru">
       </a>
     </td>
    </tr> 
@@ -63,7 +72,7 @@
     <td>       
       <img width="270" alt="ClassifAI" src="https://github.com/BroCoRo/BroCoRo/assets/85836332/5451a684-4e96-485d-b57b-289ad3798be0">
       <a href="https://github.com/OGarland001/COMP72070-23W-Sec1-Project-IV-Group-1">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=OGarland001&repo=COMP72070-23W-Sec1-Project-IV-Group-1&theme=react&bg_color=0D1117" alt="ClassifAI">
+      <img width="500" height="200" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=OGarland001&repo=COMP72070-23W-Sec1-Project-IV-Group-1&theme=react&bg_color=161b22&hide_border=true" alt="ClassifAI">
       </a>
     </td>
    </tr> 
@@ -72,7 +81,7 @@
     <td>       
       <img width="270" alt="TypeQuest" src="https://github.com/BroCoRo/BroCoRo/assets/85836332/48a594aa-fb53-40c2-b036-08bcbb061cf2">
       <a href="https://github.com/BroCoRo/Type-Quest">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=brocoro&repo=Type-Quest&theme=react&bg_color=0D1117" alt="TypeQuest">
+      <img width="500" height="200" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=brocoro&repo=Type-Quest&theme=react&bg_color=0D1117&hide_border=true" alt="TypeQuest">
       </a>
     </td>
    </tr> 
