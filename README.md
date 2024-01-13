@@ -49,7 +49,7 @@
       </a>
     </td>
    </tr> 
-
+   
   <tr>
     <td>       
       <img width="270" alt="AssemblyHMI" src="https://github.com/BroCoRo/BroCoRo/assets/85836332/a369e9c5-24e7-4b49-ac9b-5eaec0e26d97">
@@ -82,6 +82,15 @@
       <img width="270" alt="TypeQuest" src="https://github.com/BroCoRo/BroCoRo/assets/85836332/48a594aa-fb53-40c2-b036-08bcbb061cf2">
       <a href="https://github.com/BroCoRo/Type-Quest">
       <img width="500" height="200" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=brocoro&repo=Type-Quest&theme=react&bg_color=0D1117&hide_border=true" alt="TypeQuest">
+      </a>
+    </td>
+   </tr> 
+   
+   <tr>
+    <td> 
+      <img width="270" alt="SenecaSmartCitiesHackathon2023" src="https://github.com/BroCoRo/BroCoRo/assets/85836332/3366340e-3873-4e86-9de4-d6cf1cb190a6">
+      <a href="https://github.com/OGarland001/SenecaSmartCitiesHackathon2023">
+      <img width="500" height="200" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=OGarland001&repo=SenecaSmartCitiesHackathon2023&theme=react&bg_color=161b22&hide_border=true" alt="SenecaSmartCitiesHackathon2023">
       </a>
     </td>
    </tr> 
